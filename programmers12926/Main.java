@@ -1,4 +1,4 @@
-package peogrammers12926;
+package programmers12926;
 
 import java.util.Scanner;
 
