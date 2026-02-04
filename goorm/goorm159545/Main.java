@@ -1,4 +1,4 @@
-package goorm159545;
+package goorm.goorm159545;
 import java.util.*;
 
 public class Main {
